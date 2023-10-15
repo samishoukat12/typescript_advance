@@ -12,6 +12,6 @@ console.log(<string>num1)
 
 //force casting
 
-let num2 = 'sami'
+let num2 = 4
 
 console.log(typeof ((num2 as unknown) as number))
