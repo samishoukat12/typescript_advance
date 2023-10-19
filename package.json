@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "run": "tsc && node ./dist/basics/call.js",
+    "run": "tsc && node ./dist/basics/classes/inheritance.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

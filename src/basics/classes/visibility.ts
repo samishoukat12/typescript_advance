@@ -1,7 +1,7 @@
 class visibilityClass {
     // private name: string | undefined;
     private id: number | undefined;
-    public constructor(private name: string) {   //call automatically
+    public constructor(private readonly name: string) {   //call automatically
         this.name = name;
         this.id = 0
     }
