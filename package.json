@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "run": "tsc && node ./dist/basics/generics.js",
+    "run": "tsc && node ./dist/basics/classes/room.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
