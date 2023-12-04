@@ -10,7 +10,7 @@ generics<String>('hello sami')
 function clone<T>(obj: T): T {
     console.log(typeof obj)
     return obj
-} 1
+} 
 const obj0 = {
     a: {
         b: 10
