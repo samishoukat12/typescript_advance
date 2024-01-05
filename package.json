@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "run": "tsc && node ./dist/DSA/bubbleSort.js",
+    "run": "tsc && node ./dist/DSA/linearSearch.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
